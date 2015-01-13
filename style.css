@@ -1,0 +1,27 @@
+table{
+	border: 1px solid black;
+	padding: 5px;
+}
+
+th{
+	border: 1px solid black;
+	padding: 8px;
+}
+
+td{
+	border: 1px solid black;
+	padding: 8px;	
+}
+
+.edit{
+	padding: 5px;
+}
+
+.delete{
+	padding: 5px;
+}
+
+.button{
+	padding: 5px;
+	margin-top: 10px;
+}
